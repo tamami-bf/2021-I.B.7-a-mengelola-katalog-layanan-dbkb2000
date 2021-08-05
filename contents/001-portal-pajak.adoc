@@ -1,0 +1,85 @@
+== DBKB 2000
+
+image::by-sa.png[pdfwidth=25%]
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/.
+
+=== Nama Layanan
+
+Aplikasi DBKB 2000 (Daftar Biaya dan Komponen Bangunan)
+
+=== Deskripsi layanan secara umum
+
+Layanan ini digunakan untuk memberikan kemudahan penghitungan bagi beberapa objek khusus yang dinilai secara individu untuk menentukan Nilai Jual Objek Pajak (NJOP) Bangunannya.
+
+=== Detail Syarat dan Ketentuan Layanan
+
+Syarat dan ketentuan layanan dari aplikasi DBKB 2000 ini tersedia bagi pegawai internal Badan Pendapatan Daerah Kabupaten Brebes, terutama yang memiliki tugas sebagai penilai.
+
+=== Cakupan Pengguna
+
+Cakupan pengguna untuk layanan ini terbatas bagai pegawai internal Badan Pendapatan Daerah Kabupaten Brebes terutama yang memiliki tugas sebagai penilai.
+
+=== Pengelola Layanan
+
+Pengelola layanan ini adalah fungsional pranata komputer di lingkungan internal Badan Pendapatan Daerah Kabupaten Brebes
+
+=== Waktu Berjalannya Layanan
+
+Layanan ini tersedia selama 24 jam setiap hari dan 7 hari dalam seminggu
+
+=== Referensi ke _template_ SLA (_Service Level Agreement_)
+
+Referensi _Service Level Agreement_ (SLA) untuk layanan ini merujuk ke dokumen https://github.com/tamami-bf/2021-sla-portal-pajak/blob/master/build/sla-layanan-ti.pdf
+
+=== _Notional Charging_
+
+Komponen biaya tetap dan biaya variabel untuk layanan ini tidak diperlukan karena layanan ini berupa aplikasi _desktop_ dan sifatnya _standalone_ atau berdiri sendiri tanpa harus terkoneksi ke _server_.
+
+=== Proses Untuk Permintaan Layanan Teknologi Informasi
+
+Proses permintaan layanan teknologi informasi untuk aplikasi DBKB 2000 ini dilakukan dengan menghubungi Bagian Teknologi Informasi di Badan Pendapatan Daerah Kabupaten Brebes melalui beberapa kanal yang disediakan.
+
+=== Dampak operasional apabila terjadi gangguan
+
+Dampak operasional bila terjadi gangguan pada portal ini mengakibatkan petugas penilai tidak dapat melakukan penilaian objek bangunan khusus secara individu.
+
+=== Daftar Layanan Pendukung Layanan Utama 
+
+Tidak ada layanan pendukung untuk layanan ini karena layanan ini berdiri sendiri dan tidak terhubung dengan jaringan.
+
+=== Versi dan tanggal revisi 
+
+[cols="2,3", width="75%"]
+|===
+| Versi | Tanggal
+
+| 1.0 | 9 Juli 2021
+|===
+
+<<<
+
+=== Lembar Persetujuan
+
+[cols="2,1,8", width="100%", frame=none, grid=none]
+|===
+| Nama Kegiatan | : | I.B.7 - Mengelola Katalog Layanan Pengguna
+| Judul | : | Katalog Layanan Pengguna - DBKB 2000
+|===
+
+[cols="5,5", width="100%", frame=none, grid=none]
+|===
+^| Disetujui oleh : ^| Disusun Oleh
+^| Sekretaris ^| Selesai tanggal 9 Juli 2021
+^| Pada tanggal 9 Juli 2021 | 
+| |
+| |
+| |
+^| ^| Priyanto Tamami, S.Kom
+^| ^| 19840409 201001 1 025
+|===
+//// sampai sini ////
+
+
+
